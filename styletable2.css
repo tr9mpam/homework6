@@ -1,0 +1,29 @@
+table {
+   
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.ghost {
+    
+}
+
+.shadow {
+    
+}
+
+.devastator {
+    background-color: forestgreen;
+    
+}
